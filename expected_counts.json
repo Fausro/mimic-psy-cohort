@@ -1,0 +1,21 @@
+{
+  "cohort": {
+    "pacientes": 107956,
+    "pacientes_sin_solo_tabaco": 98491,
+    "admissions_historial": 338595,
+    "admissions_con_F": 238565,
+    "admissions_con_F_sin_tabaco": 217948,
+    "admissions_F_principal": 42522
+  },
+  "modalities": {
+    "labs": 275821,
+    "discharge": 209618,
+    "radiology": 193978,
+    "ed_vitals": 132943,
+    "uci_vitals": 52085,
+    "ecg_ampliado": 124998,
+    "ecg_ingreso": 91709
+  },
+  "hash_hadm_id_all": "f13ccb8782631a231bb7be844fbad2e565d1cee166f086b9565bba6887c99db8",
+  "hash_hadm_id_adm_psy": "22bda22d0acb8befe185824dacc84f4f0a19fee0d6f0354ea4eafe47cf64ecdf"
+}
